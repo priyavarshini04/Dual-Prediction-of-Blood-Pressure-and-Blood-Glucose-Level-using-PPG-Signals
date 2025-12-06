@@ -88,5 +88,4 @@ Priyavarshini G R, Indra Bhooshan Sharma,
 Exploring Deep Learning Models through Comparative Study",
 International Research Journal on Advanced Science Hub, Vol. 07, Issue 12, 2025.
 
-└── README.md
 
