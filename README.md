@@ -87,5 +87,6 @@ Priyavarshini G R, Indra Bhooshan Sharma,
 "Dual Prediction of Blood Pressure and Blood Glucose Level using PPG Signals:
 Exploring Deep Learning Models through Comparative Study",
 International Research Journal on Advanced Science Hub, Vol. 07, Issue 12, 2025.
+DOI: https://doi.org/10.47392/IRJASH.2025.118
 
 
